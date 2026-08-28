@@ -1,4 +1,4 @@
-package assignment_problems;
+
 public class Assignment1 {
     
     public static void checkVotingEligibility(int age) {

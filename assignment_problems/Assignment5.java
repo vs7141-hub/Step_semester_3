@@ -1,4 +1,4 @@
-package assignment_problems;
+
 public class Assignment5 {
 
     public static void printDayName(int dayNumber) {

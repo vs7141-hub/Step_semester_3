@@ -1,4 +1,4 @@
-package assignment_problems;
+
 public class Assignment4{
 
     public static void sumOfNaturalNumbers(int n) {

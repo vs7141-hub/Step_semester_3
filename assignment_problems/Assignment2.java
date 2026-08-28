@@ -1,4 +1,4 @@
-package assignment_problems;
+
 public class Assignment2 {
     
     public static void classifyNumber(int number) {

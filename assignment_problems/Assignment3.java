@@ -1,4 +1,4 @@
-package assignment_problems;
+
 public class Assignment3 {
     
     public static void printNumbersUpToN(int n) {
